@@ -7,8 +7,9 @@
 <p align="justify">
 This repository contains the design of a login screen for users of the Alligator website. The screen is responsive and was built using HTML and CSS, as this project is to demonstrate my skills with these two markup languages.
 <br/>
-To view the login screen in your browser <a href="">click here.</a> (In construction) <br/>
-To view the site prototype in Figma, <a href="https://www.figma.com/file/cGGDPAQtWeXUCXSK8SQHXy/Login-alligator?node-id=0%3A1&t=zvW4eLZdM7qlU9Hq-1">click here.</a>
+<br/>
+- To view the login screen in your browser, <a href="https://jams35.github.io/Alligator-Website-Login/">click here.</a><br/>
+- To view the site prototype in Figma, <a href="https://www.figma.com/file/cGGDPAQtWeXUCXSK8SQHXy/Login-alligator?node-id=0%3A1&t=zvW4eLZdM7qlU9Hq-1">click here.</a>
 </p>
 
 <h3 align="center">What is this project called "Alligator"?? 🐊 </h3>
