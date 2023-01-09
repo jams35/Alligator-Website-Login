@@ -12,7 +12,7 @@ This repository contains the design of a login screen for users of the Alligator
 - To view the site prototype in Figma, <a href="https://www.figma.com/file/cGGDPAQtWeXUCXSK8SQHXy/Login-alligator?node-id=0%3A1&t=zvW4eLZdM7qlU9Hq-1">click here.</a>
 </p>
 
-<h3 align="center">What is this project called "Alligator"?? 🐊 </h3>
+<h3 align="center">WHAT IS THIS PROJECT CALLED "Alligator"?" 🐊 </h3>
 
 <p align="justify">
 Alligator is the name given to a set of fictional, personal projects. The repositories that are linked to Alligator are exclusively for creating a hypothetical situation where I develop a solution and put my front-end, back-end and mobile knowledge into practice.
@@ -20,9 +20,11 @@ Alligator is the name given to a set of fictional, personal projects. The reposi
 
 <br/>
 
-<h2 align="center">Technologies<h2/>
+<h2 align="center">TECHNOLOGIES USED IN THE PROJECT<h2/>
 
-<p align="center">
-  <img height="180rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="180rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-</p>
+<div align="center">
+  <figure>
+    <img height="150rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img height="150rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  </figure>
+</div>
