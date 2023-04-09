@@ -1,30 +1,37 @@
+
 <h1 align="center"> Alligator Website Login🐊 </h1>
 
-<br/>
+<br />
 
-<h3 align="center">ABOUT THE REPOSITORY 📖</h3>
-
+<h2> Sobre o projeto 📖</h2>
 <p align="justify">
-This repository contains the design of a login screen for users of the Alligator website. The screen is responsive and was built using HTML and CSS, as this project is to demonstrate my skills with these two markup languages.
-<br/>
-<br/>
-- To view the login screen in your browser, <a href="https://jams35.github.io/Alligator-Website-Login/">click here.</a><br/>
-- To view the site prototype in Figma, <a href="https://www.figma.com/file/cGGDPAQtWeXUCXSK8SQHXy/Login-alligator?node-id=0%3A1&t=zvW4eLZdM7qlU9Hq-1">click here.</a>
+    Este repositório contém o design de uma tela de login para usuários do site Alligator. A tela é responsiva e foi
+    construída usando HTML e CSS, pois esse projeto é para demonstrar minhas habilidades com essas duas linguagens de
+    marcação.
+    <br />
+    <br />
+
+  * Para acessar a tela de login no seu navegador, <a href="https://jams35.github.io/Alligator-Website-Login/">clique
+        aqui.</a>
+  <br />
+  * Para ter acesso ao protótipo no FIGMA do projeto, <a
+        href="https://www.figma.com/file/cGGDPAQtWeXUCXSK8SQHXy/Login-alligator?node-id=0%3A1&t=zvW4eLZdM7qlU9Hq-1">clique
+        aqui.
+  </a>
 </p>
-
-<h3 align="center">WHAT IS THIS PROJECT CALLED "Alligator"?" 🐊 </h3>
-
+<br />
+<h2>Sobre o projeto Alligator 🐊 </h2>
 <p align="justify">
-Alligator is the name given to a set of fictional, personal projects. The repositories that are linked to Alligator are exclusively for creating a hypothetical situation where I develop a solution and put my front-end, back-end and mobile knowledge into practice.
+    Alligator é o nome dado a um conjunto de projetos fictícios e pessoais. Os repositórios que estão vinculados ao
+    Alligator são exclusivamente para criar uma situação hipotética onde eu desenvolvo uma solução e coloco em prática
+    meus conhecimentos de front-end, back-end e mobile.
 </p>
-
-<br/>
-
-<h2 align="center">TECHNOLOGIES USED IN THE PROJECT<h2/>
-
+<br />
+<h2>Tecnologias utilizadas no projeto</h2>
 <div align="center">
-  <figure>
-    <img height="150rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img height="150rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  </figure>
+    <figure>
+        <img height="120rem"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+        <img height="120rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    </figure>
 </div>
