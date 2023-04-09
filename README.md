@@ -1,4 +1,3 @@
-
 <h1 align="center"> Alligator Website Login🐊 </h1>
 
 <br />
@@ -11,15 +10,13 @@
     <br />
     <br />
 
-  * Para acessar a tela de login no seu navegador, <a href="https://jams35.github.io/Alligator-Website-Login/">clique
-        aqui.</a>
-  <br />
-  * Para ter acesso ao protótipo no FIGMA do projeto, <a
-        href="https://www.figma.com/file/cGGDPAQtWeXUCXSK8SQHXy/Login-alligator?node-id=0%3A1&t=zvW4eLZdM7qlU9Hq-1">clique
-        aqui.
-  </a>
+* Para acessar a tela de login no seu navegador, <a href="https://jams35.github.io/Alligator-Website-Login/">clique aqui.</a>
+
+* Para ter acesso ao protótipo no FIGMA do projeto, <a href="https://www.figma.com/file/cGGDPAQtWeXUCXSK8SQHXy/Login-alligator?node-id=0%3A1&t=zvW4eLZdM7qlU9Hq-1">clique aqui.</a>
 </p>
+
 <br />
+
 <h2>Sobre o projeto Alligator 🐊 </h2>
 <p align="justify">
     Alligator é o nome dado a um conjunto de projetos fictícios e pessoais. Os repositórios que estão vinculados ao
